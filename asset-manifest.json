@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tordie5-docs/static/css/main.ce52a77a.css",
+    "main.js": "/tordie5-docs/static/js/main.1c4a7c0c.js",
+    "static/js/453.46c95381.chunk.js": "/tordie5-docs/static/js/453.46c95381.chunk.js",
+    "index.html": "/tordie5-docs/index.html",
+    "main.ce52a77a.css.map": "/tordie5-docs/static/css/main.ce52a77a.css.map",
+    "main.1c4a7c0c.js.map": "/tordie5-docs/static/js/main.1c4a7c0c.js.map",
+    "453.46c95381.chunk.js.map": "/tordie5-docs/static/js/453.46c95381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce52a77a.css",
+    "static/js/main.1c4a7c0c.js"
+  ]
+}
