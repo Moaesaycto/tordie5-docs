@@ -2,12 +2,14 @@
 
 **Type:** Documentation Site · **Tech Stack:** React · **Status:** Archived (superseded by Tordie 6)
 
-**Overview:** A React-based documentation site that explains the features, workflows, and theory behind **Tordie 5**, matching the version presented at OSME 5. You can find the archived docs [here](https://moae.dev/tordie5-docs/).
+## Overview
+A React-based documentation site that explains the features, workflows, and theory behind **Tordie 5**, matching the version presented at OSME 5. You can find the archived docs [here](https://moae.dev/tordie5-docs/).
 
-**Highlights:**
+## Highlights:
 
 * Clear structure for concepts, tutorials, and references.
 * Example-driven pages to connect maths to tool behaviour.
 * Lightweight, fast, and easy to navigate.
 
-**Note:** Read-only; Tordie 6 is the maintained successor.
+## Note
+Read-only; Tordie 6 is the maintained successor.
